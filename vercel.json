@@ -1,0 +1,8 @@
+{
+  "services": {
+    "backend": {
+      "root": "bodhi/",
+      "entrypoint": "api/main.py"
+    }
+  }
+}
